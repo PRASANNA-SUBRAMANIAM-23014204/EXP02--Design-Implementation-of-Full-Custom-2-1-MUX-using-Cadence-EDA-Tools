@@ -80,7 +80,7 @@ Analog simulation by SPECTRE.
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
 	Set the simulation window to spectre and click ok
-	Execute Analysis – Choose. A window opens.
+	Execute Analysis – Choose. A window opens. 
 	Select the type and set the specifications and press OK
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
